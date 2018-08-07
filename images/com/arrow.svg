@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="22px" viewBox="0 0 12 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ic/ic_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.804512593">
+        <g id="智能收银-copy" transform="translate(-458.000000, -1243.000000)">
+            <g id="Group" transform="translate(280.000000, 1233.000000)">
+                <g id="ic/ic_arrow" transform="translate(159.000000, 5.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M14,22 L14,9.00087166 C14,8.44463086 13.5522847,8 13,8 C12.4438648,8 12,8.4481055 12,9.00087166 L12,22.9991283 C12,22.9992736 12,22.9994189 12.0000001,22.9995642 C12,22.9997094 12,22.9998547 12,23 C12,23.2779215 12.1119087,23.5278048 12.292863,23.7082661 C12.4741188,23.8889584 12.7240019,24 13,24 C13.0001453,24 13.0002906,24 13.0004359,23.9999999 C13.0005811,24 13.0007264,24 13.0008717,24 L26.9991283,24 C27.5553691,24 28,23.5522847 28,23 C28,22.4438648 27.5518945,22 26.9991283,22 L14,22 Z" id="jian" fill="#FFFFFF" transform="translate(20.000000, 16.000000) scale(-1, 1) rotate(45.000000) translate(-20.000000, -16.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+/***
+	app.wxss包含了整个小程序的样式文件
+	wiiui.wxss是基础ui样式
+	components.wxss是组件样式，需要根据引用的组件在此引入组件对应的样式文件
+	widget.wxss是widget样式，根据业务需要在该文件中引入对应的widget样式文件
+***/
+
+@import 'components.wxss';
+
+page {
+    font-family: "Microsoft Yahei";
+    background-color: #f6f6f6;
+}
+
+
+button::after{
+  border: 0;
+}
+
+button{
+  border-radius: 0;
+}
+
+.btn-hover{
+  opacity: 0.5;
+} 

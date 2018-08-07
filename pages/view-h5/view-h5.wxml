@@ -1,0 +1,4 @@
+<!--pages/view-h5/view-h5.wxml-->
+测试在小程序里面打开自己申请当前小程序的公众号，自动关联的公众号文
+、章
+<web-view src="https://mp.weixin.qq.com/s/gjprn0yQ_J6_n8EKjPYzcg"></web-view>\ 

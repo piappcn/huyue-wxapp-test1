@@ -1,0 +1,18 @@
+/* pages/index/index.wxss */
+.hy-content {
+  display: block;
+}
+
+.hy-content navigator{
+  display: block;
+  width:100%;
+  height:40px;
+  line-height: 40px;
+  background: #000;
+  color: #fff;
+  font-size: 16px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
+
+}

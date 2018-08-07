@@ -1,0 +1,10 @@
+<view class="hy-content">
+ 琥玥公司测试小程序，测试功能页面；
+</view>
+
+
+<view class="hy-content">
+  <navigator url="/pages/view-h5/view-h5?title=navigate" hover-class="navigator-hover">测试打开webView</navigator>
+
+    <navigator url="/pages/open-wxapp/open-wxapp?title=navigate" hover-class="navigator-hover">测试打开其他小程序</navigator>
+</view>

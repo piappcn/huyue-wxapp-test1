@@ -1,0 +1,11 @@
+<view class="wii-upload" wx:if="{{isShow}}">
+	<view wx:if="{{upload_progress}}" class="uploading">进度:{{upload_progress}}</view>
+  <view class="upload" catchtap="uploadHook" wx:if="{{hasEvent}}">
+    <image src="{{imgUrl}}" class="upload-image" wx:if="{{imgUrl}}"></image>
+    <slot wx:else></slot>
+  </view>
+  <view class="upload" wx:else>
+    <image src="{{imgUrl}}" class="upload-image" wx:if="{{imgUrl}}"></image>
+    <slot wx:else></slot>
+  </view>
+</view>

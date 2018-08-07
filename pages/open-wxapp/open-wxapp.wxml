@@ -1,0 +1,31 @@
+<!-- pages/open-wxapp/open-wxapp.wxml
+<text>我说家驹小程序，测试打开强的小程序</text>
+<view class="btn-area">
+
+
+
+  <navigator url="/page/navigate/navigate?title=navigate" hover-class="navigator-hover">跳转到新页面</navigator>
+ -->
+
+
+  <!-- <navigator url="../../redirect/redirect/redirect?title=redirect" open-type="redirect" hover-class="other-navigator-hover">在当前页打开</navigator>
+
+
+
+  <navigator url="/page/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
+
+<!-- 
+
+  <navigator target="miniProgram" open-type="navigate" app-id="wxf0ea8a241e932604" path="" extra-data="" version="develop">打开强开发的小程序</navigator>
+ -->
+
+
+    <navigator target="miniProgram" open-type="navigate" app-id="wxf0ea8a241e932604" path="/pages/view-h5/view-h5" extra-data="{{testP}}" version="trial">打开强的体验版小程序嵌入的非一个公众号的嵌入的公众号文章</navigator>
+{{testP.id}}
+{{testP.name}}
+    <navigator target="miniProgram" open-type="navigate" app-id="wxf0ea8a241e932604" path="/pages/test/test?id=1&name=刘家驹" extra-data="{{testP}}" version="trial">打开强小程序的指定页面传入指定参数</navigator>
+
+
+        <!-- <navigator target="miniProgram" open-type="navigate" app-id="wxf0ea8a241e932604" path="/pages/test/test" extra-data="" version="release">打开强的正式小程序</navigator>
+</view> -->
+

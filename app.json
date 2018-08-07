@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/open-wxapp/open-wxapp",
+    "pages/view-h5/view-h5",
+    "pages/test/test"
+  ],
+  "debug": true
+}
